@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Wisky",
+    "description": "12 años",
+    "price": 5500,
+    "thumbnail": "img1-jpg",
+    "code": "w1",
+    "stock": 60,
+    "id": 1
+  }
+]
